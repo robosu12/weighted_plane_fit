@@ -1,5 +1,7 @@
 # weighted_plane_fit
 
+![alt text](result.png)
+
 ## Compile
 
 ### Dependency
